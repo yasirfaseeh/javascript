@@ -1,2 +1,2 @@
 # javascript
-learning code
+learning code in js
